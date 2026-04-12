@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full metro-level restaurant coverage for Laredo (Metro), Texas, spanning Laredo. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Laredo (Metro), Texas, US",
+  "export_job_id": "ba0deca8-799a-4c99-b27a-1ddfff5690c0",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 366230,
+  "location_name": "Laredo, TX",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-laredo-metro-texas-us-sample-366230",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/366230/beamstation_366230_restaurants-us-laredotx_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 78,
+  "sample_sha256": "676378f4c08d958477d73916d2dffd9d6e8bd58ba390442f860df54d7e7b07c8",
+  "sample_size_bytes": 288770,
+  "total_records": 781,
+  "updated_at": "2026-04-07T12:41:48.265942+00:00"
+}
