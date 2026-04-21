@@ -1,12 +1,12 @@
 {
-  "export_job_id": "85f24179-fb54-4b4c-9ec6-131f197e1eb8",
+  "export_job_id": "11a2d879-24d8-42d4-af3d-6f954d1d377e",
   "id_short": 366230,
-  "published_at": "2026-04-17T19:20:39Z",
+  "published_at": "2026-04-21T19:20:10Z",
   "repo_name": "all-restaurants-in-laredo-metro-texas-us-sample-366230",
   "sample_asset_name": "beamstation_366230_restaurants-us-laredotx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/366230/beamstation_366230_restaurants-us-laredotx_SAMPLE_DIST.csv",
-  "sample_records": 74,
-  "sample_sha256": "c380a87bf9a16f7b842df8663e6a32f566cbef0346a447f99e714494ec284cec",
-  "sample_size_bytes": 277220,
-  "total_records": 745
+  "sample_records": 60,
+  "sample_sha256": "39648e90367aad4bed970eea593960eb0d3e275136e173b0f8007a5ca27c092c",
+  "sample_size_bytes": 228515,
+  "total_records": 609
 }
