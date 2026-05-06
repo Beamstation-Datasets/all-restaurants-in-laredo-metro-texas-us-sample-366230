@@ -1,6 +1,6 @@
 # All Restaurants in Laredo (Metro), Texas, US
 
-> Free BeamStation sample export with 76 rows and masked direct-contact fields.
+> Free BeamStation sample export with 85 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `366230` |
 | Location | Laredo, TX |
 | Category | Restaurants |
-| Full dataset size | 768 records |
-| Free sample size | 76 records (9.9%) |
-| Last export | 2026-04-28T14:23:52.646678+00:00 |
+| Full dataset size | 857 records |
+| Free sample size | 85 records (9.92%) |
+| Last export | 2026-05-06T04:30:45.890863+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-laredo-metro-texas-us-sample-366230/releases/download/sample-latest/beamstation_366230_restaurants-us-laredotx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
